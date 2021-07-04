@@ -144,7 +144,7 @@ const _parseSoulWarsZeal = (stats) => {
  * @param {Object[]} stats Array obtained from csvToArray()
  */
 const _parseBosses = (statsArray) => {
-  const stats = statsArray.slice(36, 82);
+  const stats = statsArray.slice(36, 83);
 
   const bosses = {};
 

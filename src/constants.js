@@ -76,6 +76,7 @@ const STATS = {
     "K'ril Tsutsaroth",
     'Mimic',
     'Nightmare',
+    "Phosani's Nightmare",
     'Obor',
     'Sarachnis',
     'Scorpia',
